@@ -1,5 +1,7 @@
-Retail Query AI
+#Retail Query AI
+
 Overview
+
 Retail Query AI is a Streamlit application designed to allow users to query a MySQL database using natural language. The application utilizes a large language model (LLM) to interpret user queries, convert them into SQL, and return the results from the database.
 
 Features
