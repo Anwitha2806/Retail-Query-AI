@@ -1,0 +1,6 @@
+# Ignore the virtual environment directory
+myenv/
+
+# Ignore specific large files
+*.dll
+*.lib
